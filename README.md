@@ -1,5 +1,5 @@
 # File-temporary-storage
-檔案暫存  
+# 檔案暫存區  
 
 > 圖片寬度格式
 ```
