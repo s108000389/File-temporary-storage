@@ -1,6 +1,11 @@
 # File-temporary-storage
 # 檔案暫存區  
 
+>以bat檔開啟chrome
+```
+#以無痕開啟 -incognito
+START chrome.exe -incognito https://github.com/s108000389/File-temporary-storage
+```
 > 圖片寬度格式
 ```
 <img src="" width="300px">
